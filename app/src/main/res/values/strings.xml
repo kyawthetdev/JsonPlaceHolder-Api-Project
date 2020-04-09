@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JsonPlaceHolder  Api Project</string>
+    <string name="more">more</string>
+    <string name="title">Title</string>
+    <string name="id">Id</string>
+    <string name="url">Url</string>
+</resources>
